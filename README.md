@@ -25,7 +25,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone [https://github.com/your-repo.git](https://github.com/suryanag0999/e-commerce-backend)
    cd your-repo
    ```
 
